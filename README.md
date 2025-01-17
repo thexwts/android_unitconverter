@@ -63,3 +63,5 @@ For any questions or feedback, feel free to reach out to us through the reposito
 
 ---
 Let’s make conversions smarter and faster together! 🚀
+
+https://kalitut.com/developing-a-android-unit-converter-application-using-ai/
